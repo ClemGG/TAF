@@ -1,0 +1,50 @@
+﻿using System.Collections.Generic;
+using Unity.Collections;
+/// <summary>
+/// Pour comparer 2 noeuds
+/// </summary>
+public struct PathNodeComparer : IComparer<PathNode>
+{
+    #region Variables d'instance
+
+    /// <summary>
+    /// Les distances de chaque noeud au point de départ
+    /// </summary>
+    private NativeHashMap<PathNode, float> _distances;
+
+    #endregion
+
+    #region Constructeur
+
+    /// <summary>
+    /// Le constructeur par défaut
+    /// </summary>
+    /// <param name="distances">Les distances entre noeuds à comparer</param>
+    public PathNodeComparer(NativeHashMap<PathNode, float> distances)
+    {
+        this._distances = distances;
+    }
+
+    #endregion
+
+    #region Fonctions publiques
+
+    /// <summary>
+    /// Pour comparer 2 noeuds
+    /// </summary>
+    public int Compare(PathNode x, PathNode y)
+    {
+        if (this._distances.ContainsKey(y))
+        {
+            if (this._distances[x] < this._distances[y])
+                return -1;
+            else if (this._distances[x] > this._distances[y])
+                return 1;
+            else
+                return 0;
+        }
+        return 0;
+    }
+
+    #endregion
+}
