@@ -7,3 +7,4 @@
 2646232875844487807 : Arc élec D:1, pas mal d'uniques, casque Inv, ossuaire dur (utiliser scroll Immol.)
 13978030460760247303 : 2 potions EXP D:10, temple D:5, attention Melials D:13
 7234621957884594270 : Potion EXP, temple D:4
+14968832300716062849 : Hand Xbow et temple D:7
