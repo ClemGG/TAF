@@ -9,3 +9,4 @@
 7234621957884594270 : Potion EXP, temple D:4
 14968832300716062849 : Hand Xbow et temple D:7
 10101669388256778950 : Acquirement + XP avant D:6
+11647866130903335075 : Damnation dans Portculis
