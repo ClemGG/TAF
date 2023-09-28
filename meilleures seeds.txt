@@ -5,7 +5,7 @@
 16026215979814307395 : Singing Sword D:7, scarf of harm
 4321910984689119279 : Porte entrée pour XP gratuit, potion de mutation
 2646232875844487807 : Arc élec D:1, pas mal d'uniques, casque Inv, ossuaire dur (utiliser scroll Immol.)
-13978030460760247303 : 2 potions EXP D:10, temple D:5, attention Melials D:13
+13978030460760247303 : 2 potions EXP D:2 D:10 (dorée), temple D:5, attention Melials D:13
 7234621957884594270 : Potion EXP, temple D:4
 14968832300716062849 : Hand Xbow et temple D:7
 10101669388256778950 : Acquirement + XP avant D:6
