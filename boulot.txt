@@ -1,0 +1,1 @@
+TAF : Bugfix de l'AgentSpawnerAspect qui plante parce qu'il n'y a aucune occupation de détaillé dans le profil du Config. Trouver pourquoi.
