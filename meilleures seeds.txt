@@ -15,4 +15,4 @@
 8934749203920785025 : Hood assassin et moon armor Orc:2
 8547675633196925861 : Hood assassin D:5, temple D:4
 2741775824309194934 : 3Xbow D:1
-15287976981287371886 : Excellent marteau spect rElec Yuif
+15287976981287371886 : Excellent marteau spect rElec Yuif et gants harm str dex
