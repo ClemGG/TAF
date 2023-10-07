@@ -21,3 +21,4 @@
 14530410400627544999 : Vault D:1 avec plein d'ennemis
 4491325489616693956 : ThroatCutter sur terence
 17667253405423093509 : Potion EXP D:1 shop, shop armures dragons, temple D:7
+7402770357373480651 : Sniper D11 shop
