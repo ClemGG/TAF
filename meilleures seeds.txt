@@ -30,4 +30,5 @@
 379370114601240180 : hand xBow speed dans portculis tôt, Gyre&Gimble d10
 1429402049225369041 : Hache Arga Orc:2
 12899452339042089703 : Epee Leech D:1
-17324801287552931172 : Damnation D:3
+17324801287552931172 : Damnation shop D:3
+15303948344177681572 : Damnation D:6 excellente gold scale lair
