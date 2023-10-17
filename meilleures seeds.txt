@@ -32,7 +32,7 @@
 12899452339042089703 : Epee Leech D:1
 17324801287552931172 : Damnation shop D:3
 15303948344177681572 : Damnation D:6 excellente gold scale lair
-9520607869083006531 : Morningstar Eos d:2 et Leech Lair5
+9520607869083006531 : Morningstar Eos d:2 et Leech Lair5, hand et 3xbow Orc:2
 8536715905250243607 : Captain Cutlass D:6, 3 acquirement
 8523377297202275043 : Singing sword D:1
 7777553922356443125 : Song of Zonguldrok Orc:3 Mines 12 (mais on atterrit au milieu des ennemis)
