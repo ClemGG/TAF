@@ -57,3 +57,4 @@
 6156816915819781512 : hand xbow 1gold d4
 4528478059399704903 : Leech et Parghit (victoire AtFi^Qal)
 1064313838951530978 : 10 arbalest Little people (victoire BaHu^Oka)
+7412597969959564056 : acqui d2 + salamander hide shop d4
