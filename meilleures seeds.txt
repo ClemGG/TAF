@@ -63,3 +63,5 @@
 18085059994405467450 : +9 plate armour ponderous d1, oka d2
 13978030460760247303 : Shield gong Orc2
 4136815238768668293 : Black knight barding d3
+10787548041186868589 : Sniper tôt, +9 randart antimagic war axe
+1209394223189317277 : Temple Jiyva d6
