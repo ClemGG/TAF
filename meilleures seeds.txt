@@ -62,4 +62,6 @@
 4250987573605760449 : Hat alechmist shopd7, +5 eveningstar Urga Lair1 (ne pas descendre au d12 avant le lair et les mines)
 18085059994405467450 : +9 plate armour ponderous d1, oka d2
 13978030460760247303 : Shield gong Orc2
-4136815238768668293 : Black knight barding d3
+4136815238768668293 : Black knight barding d3, trove d10 5resistances
+7298740011910363998 : Ring of shadows d8
+13836800278587903469 : Tower reflect et crystal bailey d10, trove d10 piety
