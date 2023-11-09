@@ -65,3 +65,5 @@
 4136815238768668293 : Black knight barding d3, trove d10 5resistances
 7298740011910363998 : Ring of shadows d8
 13836800278587903469 : Tower reflect et crystal bailey d10, trove d10 piety
+10787548041186868589 : Sniper tôt, +9 randart antimagic war axe
+1209394223189317277 : Temple Jiyva d6
