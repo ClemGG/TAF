@@ -82,4 +82,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 10574354823592160604 : Hep d3 sudest, Bonne armure acid dans Bailey Spriggan + 11gold scale superbe shop D7, temple d7, 4 acqui d9, trove 4 fear d12, potion EXP bleu vif d2, gloves infusion shop d13, tower shield rPois d14, toge victory + scythe finisher Orc2, scourge et punk salt elf2, eveningstar flaming et heavy broad elf2, gants STR shoals4, randart elec +5 arbalest vaults:1, 3xbow et demon whip depths:2 (doit utiliser dig au nord-ouest de Depths:3 pour accéder aux escaliers), antimagic war axe Depths:3, sceptre of torment Crypt3
 9233985698066048527 : Scarf res d2, temple et shop used melee d4 (attention plein d'uniques)
 5814515867490028379 : Toga victory d4 nord est
-4458412445178432026 : staff meek d6, randart elec war axe d11, 3xbow vault lair2, 4 acqui Orc2
+4458412445178432026 : staff meek d6, randart elec war axe et crystal armour d11, 3xbow vault lair2, 4 acqui Orc2
