@@ -26,7 +26,7 @@
 4314136898063038759 : Obsidian axe d6 shop
 3488287984534633067 : Golden dragon scales d2 + scarf harm d3
 8535174329780207765 : robe of night pour Kobold d:10
-8373394460342019087 : hand xbow shop et temple d4
+8373394460342019087 : +7 flame hand xbow shop et temple d4, gants infusion d5
 379370114601240180 : hand xBow speed dans portculis tôt, Gyre&Gimble d10
 1429402049225369041 : Hache Arga Orc:2
 12899452339042089703 : Epee Leech shop D:1 +6 spect hammer Yuif
