@@ -31,7 +31,7 @@
 1429402049225369041 : Hache Arga Orc:2
 12899452339042089703 : Epee Leech shop D:1 +6 spect hammer Yuif
 17324801287552931172 : Damnation shop D:3
-15303948344177681572 : Damnation D:6, temple d7, excellente gold scale lair3, maxwell armour et gauntlet d13, ice cave snake2 nord
+15303948344177681572 : Damnation D:6, temple d7, excellente gold scale lair3, maxwell armour et gauntlet d13, ice cave snake2 nord, salamander hide bazaar elf2 759G, necklace blooslust elf3 nord-est 543G
 9520607869083006531 : Morningstar Eos d:2 et Leech Lair5, trident rift hand et 3xbow Orc:2
 8536715905250243607 : Captain Cutlass D:6, 3 acquirement
 8523377297202275043 : Singing sword D:1 + sword Zonguldrok D:13, temple d7, amaemon d8, erolcha d10, maxwell armour shop Orc:2, double 		      sword shop d13, maxwell thermic engine elven3, majin-bo vaults2, antimagic broad axe et hand xbow vaults3, trove 		      vaults4, ignorance vaults5
