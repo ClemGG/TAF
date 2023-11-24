@@ -43,7 +43,7 @@
 2147944031380824526 : Skin of Zhor à l'entrée des mines
 4559260055564490154 : Labrys shop D:3
 6660113781497265912 : elec hand xbox shop D:1
-9886316764657304749 : Plein de brand et acqui, +9 broad axe dans bailey, amulet Hermit
+9886316764657304749 : Plein de brand et acqui, +9 broad axe dans bailey, amulet Hermit d3 sud-est
 6381411144567239826 : Labrys shop D1 pas cher, arc blade D5
 6768990504203368718 : +5 gold dragon scales dans Bailey
 17436809613065527117 : Sniper shop d2
@@ -62,7 +62,7 @@
 4250987573605760449 : Hat alechmist shopd7, +5 eveningstar Urga Lair1 (ne pas descendre au d12 avant le lair et les mines)
 18085059994405467450 : +9 plate armour ponderous d1, oka d2
 13978030460760247303 : Shield gong Orc2
-4136815238768668293 : Black knight barding d3, trove d10 5resistances
+4136815238768668293 : Black knight barding d3, temple d7, trove d10 5resistances
 7298740011910363998 : Ring of shadows d8
 13836800278587903469 : Tower reflect et crystal bailey d10, trove d10 piety
 10787548041186868589 : Sniper tôt, +9 randart antimagic war axe
