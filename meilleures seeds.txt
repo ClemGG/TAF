@@ -34,7 +34,10 @@
 15303948344177681572 : Damnation D:6, temple d7, excellente gold scale lair3, maxwell armour et gauntlet d13, gants dex gauntlet milieu, ice cave snake2 nord, salamander hide bazaar elf2 759G, necklace blooslust elf3 nord-est 543G
 9520607869083006531 : Morningstar Eos d:2 et Leech Lair5, trident rift hand et 3xbow Orc:2
 8536715905250243607 : Captain Cutlass D:6, 3 acquirement
-8523377297202275043 : Singing sword D:1 + sword Zonguldrok D:13, temple d7, amaemon d8, erolcha d10, maxwell armour shop Orc:2, double 		      sword shop d13, maxwell thermic engine elven3, majin-bo vaults2, antimagic broad axe et hand xbow vaults3, trove 		      vaults4, ignorance vaults5
+8523377297202275043 : 
+Singing sword D:1, lajatang d3, sword Zonguldrok D:13, temple d7, amaemon d8, erolcha d10, maxwell armour shop Orc:2, 
+double sword shop d13, maxwell thermic engine elven3, majin-bo vaults2, antimagic broad axe et hand xbow vaults3, 
+trove vaults4, ignorance vaults5
 7777553922356443125 : Song of Zonguldrok Orc:3 Mines 12 (mais on atterrit au milieu des ennemis)
 13486056299664495226 : Lochaber axe-poleaxe D:13
 11713871076871044058 : Hood assassin Spider 4 avec rune
@@ -90,3 +93,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 3188702928422607917 : king gold scales d5, wyrmbane d7, robe vines shop 1120G d11, morningstar Eos Orc1
 7444327526734103097 : Helmet dex5 robin d4, shop anneaux d7, shop quickblade double/demon sword d9 et lair d9, leather armour dex7 Orc2, ice cave spider4 est, robe of folly elf1, double sword holy elf2 et demon sword depths3
 2114642855872888659 : Tower shield protection shop 202G + longbow d1, acqui et temple d7
+14739717275159558546 : Cigotuvi dans vault d11
