@@ -14,7 +14,7 @@
 15841180220663662247 : Quick blade D:2 après Robin
 8934749203920785025 : Hood assassin et moon armor Orc:2
 8547675633196925861 : Hood assassin D:5, temple D:4
-2741775824309194934 : 3Xbow D:1, 2 acqui d6,
+2741775824309194934 : 3Xbow D:1, 2 acqui d6, queen's shield et lugonu Lair5, ice cave lair2 sud ouest, volcan orc1 sud,
 15287976981287371886 : gants harm d2, excellent marteau spect rElec Yuif d3, tower shield d8
 15839349445353756257 : Toge augmentation D:3
 6359111316447893604 : Devastator, curare whip Lair3, trove 7 potions haste
@@ -89,3 +89,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 17462194826089648692 : Singing sword d11
 3188702928422607917 : king gold scales d5, wyrmbane d7, robe vines shop 1120G d11, morningstar Eos Orc1
 7444327526734103097 : Helmet dex5 robin d4, shop anneaux d7, shop quickblade double/demon sword d9 et lair d9, leather armour dex7 Orc2, ice cave spider4 est, robe of folly elf1, double sword holy elf2 et demon sword depths3
+2114642855872888659 : Tower shield protection shop 202G + longbow d1, acqui et temple d7
