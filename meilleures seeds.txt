@@ -25,7 +25,7 @@
 1036611549353346026 : Acqui, toge nuage elec, maxwell armour et gauntlets of war (bailey) d9 + singing sword dans des magasins, Lugonu libre d12, pas d'hydres, wizlab vaults3 très dangereux (ne vaut pas le coup) (victoire BaFi^Qaz)
 4314136898063038759 : Obsidian axe d6 shop
 3488287984534633067 : Golden dragon scales d2 + scarf harm d3
-8535174329780207765 : robe of night pour Kobold d:10
+8535174329780207765 : broad axe flame maggie d8, robe of night pour Kobold d:10
 8373394460342019087 : +7 flame hand xbow shop et temple d4, gants infusion d5
 379370114601240180 : hand xBow speed dans portculis tôt, Gyre&Gimble d10
 1429402049225369041 : Hache Arga Orc:2
@@ -63,7 +63,7 @@ trove vaults4, ignorance vaults5
 7412597969959564056 : acqui d2 + salamander hide shop d4
 5682815176208646191 : Greatsling punk Orc2 + eveningstar lair5
 4250987573605760449 : Hat alechmist shopd7, +5 eveningstar Urga Lair1 (ne pas descendre au d12 avant le lair et les mines)
-18085059994405467450 : +9 plate armour ponderous d1, oka d2
+18085059994405467450 : +9 plate armour ponderous d1, oka d2, temple d6
 13978030460760247303 : Shield gong Orc2
 4136815238768668293 : Black knight barding d3, temple d7, trove d10 5resistances
 7298740011910363998 : Ring of shadows d8
