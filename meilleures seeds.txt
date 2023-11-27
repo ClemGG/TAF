@@ -7,7 +7,7 @@
 2646232875844487807 : Arc élec D:1, pas mal d'uniques, casque Inv, ossuaire dur (utiliser scroll Immol.)
 13978030460760247303 : 2 potions EXP D:2 D:10 (dorée), temple D:5, attention Melials D:13
 7234621957884594270 : Potion EXP, temple D:4
-14968832300716062849 : Hand Xbow et temple D:7, Oka d7 mais il faut descendre pour l'atteindre
+14968832300716062849 : Hand Xbow et temple D:7, Oka d7 mais il faut descendre pour l'atteindre, trove d10 +3 storm scales
 10101669388256778950 : Acquirement + XP avant D:6
 11647866130903335075 : Damnation dans Portculis
 12158503524607505972 : Anneaux et gants DEX, Gyre & Gimble Lair:2, scard harm et scarf dex
