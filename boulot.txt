@@ -1,1 +1,2 @@
-TAF : Bugfix de l'AgentSpawnerAspect qui plante parce qu'il n'y a aucune occupation de détaillé dans le profil du Config. Trouver pourquoi.
+TAF : Avec Alexis, réaliser le positionnement de la maquette sur une surface plane via l'Hololens.
+      Récupérer les interventions et les afficher sur l'UI
