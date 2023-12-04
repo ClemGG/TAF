@@ -99,3 +99,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 12214528599558997956 : tower shield orc 1 et ice cave sud d11, Acqui Orc2, warlock mirror d13, potion exp snake3 shop 800G, hat alchemist vaults5
 17247089737979376187 : Acqui d5, ring dex, bailey costaud et obsidian axe d8, frostbite d11, gants str et acqui d12
 16907249649019800516 : 2 anneaux slay d1 et 3, Kyria's mail coat d5, 3 acqui lair 1 et 2 et gauntlet Lair3, Jivya Lair4 et robes vines Lair5, 2 potions EXP vault d13, lighting barding shop snake4 1474G, parghit Depths4, maulers vaults5
+15803323477826667395 : handxbow d4 42G (attention gnolls)
