@@ -102,4 +102,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 15803323477826667395 : handxbow d4 42G (attention gnolls)
 2106783491262075911 : hand xbow & tower shield ice cave lair4
 8760401932735410255 : Shield resistance vault d9, +4 freeze broad axe & lear hauberk d10, gauntlet lair1, excellent tower shield gauntlet, acqui Lair3, handxbow et red scales volcano lair5, tower shield ignorance orc1, 2 acqui swamp 2/4 et 1 acqui spider 4
-10033790758564970433 : handxbow et temple d5
+10033790758564970433 : handxbow et temple d5, ring EV et +10 ponder d6, acqui dans Ossuaire d7
