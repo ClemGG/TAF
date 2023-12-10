@@ -106,3 +106,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 4107420112199560173 : hand axe flame d1, 3 acqui d3, hand xbow d4 au sol, manual ranged d7, jivya altar libre d11, gauntlet d13 (doit battre les gardes des Vaults avant, difficile), vault double sword d14, quick blade Lair2 nord, broad axe flaming volcano Lair2, 3xbow lair5, helmet STR will elf2, scythe curses et acqui elf3, cigotuvi armour vaults1, salt nord de l'entreée vaults1, wizlab cigotuvi fleshwork vaults3 nord, acqui vaults5, gong slime5
 3645395252994792005 : Hat ponder et gauntlets war dans shops d3,
 3902691226468393887 : Dark maul d9,
+8292183471020205820  : 2 potions EXP d2 (la potion bleue)
