@@ -107,3 +107,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 3645395252994792005 : Hat ponder et gauntlets war dans shops d3,
 3902691226468393887 : Dark maul d9,
 8292183471020205820  : 2 potions EXP d2 (la potion bleue)
+10963183091105874832 : Singing Sword d8
