@@ -108,4 +108,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 3902691226468393887 : Dark maul d9,
 8292183471020205820  : 2 potions EXP d2 (la potion bleue)
 10963183091105874832 : Singing Sword d8, temple d6, bonne arbalète penet Orc1, 
-5966004843679937602 : bailey EXP d8, hand xbow ice cave d11, queen's shield et potion EXP gauntlet lair4, hat ponder lair3 gastronok, hand xbow volcano ouest orc2
+5966004843679937602 : bailey EXP d8, hand xbow ice cave d11, queen's shield et potion EXP gauntlet lair4, hat ponder lair3 gastronok, hand xbow volcano ouest orc2, skullcrusher dans vault d15
