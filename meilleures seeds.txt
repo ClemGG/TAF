@@ -111,4 +111,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 5966004843679937602 : bailey EXP d8, hand xbow ice cave d11, queen's shield et potion EXP gauntlet lair4, hat ponder lair3 gastronok, hand xbow volcano ouest orc2, skullcrusher dans vault d15, anneau Will+++ dex6 et sniper dans bazaar elf2, spellbinder elf3
 15666760509498223098 : temple et oka d4, hand xbow au sol d5, demon blade d6 (nécessite dig), Singing sword Shoals4, Maulers Orc2
 7391712771251022253 : Hep d3 centre, Maxwell sword d5 (attention Edmund Eustachio et steam dragon), temple et 2 acqui d7, 3 acqui d8, glaive guard Orc2, 
-3841572986214782224 : Maulers d2,
+3841572986214782224 : Maulers d2, acqui dans ossuaire et temple d4
