@@ -1,0 +1,18 @@
+Espèces : 
+
+- Armataur
+- Demonspawn
+- Barachi
+
+Classes :
+
+- Fighter
+- Monk
+- Hunter
+
+Dieux : 
+
+- Gozag
+- Qazlal
+- Okawaru
+- Hepliakhana
