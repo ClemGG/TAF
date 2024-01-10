@@ -73,7 +73,7 @@ trove vaults4, ignorance vaults5
 7836672543796013397 : 2 acqui avant d6 (1 dans egouts d4), Jiyva Lair5, Amulet vitality Orc2, autumn blade shop 14 (attention meliais et hydre), robe vines Gauntlet d15 facile, 3 quickblades elf2, attention hydres elf3, trove vaults2 16 curing, 
 4264115055228409613 : 8 hand xbow speed dans Salt Elven1, eveningstar et quick blade Elven2, antimagic war axe swamp4, dazzle cloak & queen shield slime 5
 5620306298162769563 : Tower shield reflect Shoals3, pas mal d'objets de résistance
-6094528235493969032 : Warlock shield+ acqui Orc2
+6094528235493969032 : Vault monstres d1, Oka nord-est d2, Warlock shield+ acqui Orc2
 15471895913629041283 : Skin of Zhor, ring mail rC++ W++, gants STR et temple d7, potion EXP bailey d9
 12227517427145989815 :
 Sewer on D:3 with potion of experience and scroll of aqq (and alter of Jivya)
@@ -90,7 +90,7 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 7070307476081835477 : staff meek d3, Arbalest Damn Gauntlet d13
 9172802875789826777 : robe dex rF et bottes will+++ d4, buckler sInv lair2, vault hydres d14, scroll acqui 37g + eveningstar vamp + bazaar derrière statue Snake1
 17462194826089648692 : Singing sword d11
-3188702928422607917 : king gold scales d5, wyrmbane d7, robe vines shop 1120G d11, morningstar Eos Orc1
+3188702928422607917 : barding d1, king gold scales d5, wyrmbane d7, robe vines shop 1120G d11, morningstar Eos Orc1
 7444327526734103097 : Helmet dex5 robin d4, shop anneaux d7, shop quickblade double/demon sword d9 et lair d9, leather armour dex7 Orc2, ice cave spider4 est, robe of folly elf1, double sword holy elf2 et demon sword depths3
 2114642855872888659 : Tower shield protection shop 202G + longbow d1, acqui et temple d7
 14739717275159558546 : 3 acqui d3, Cigotuvi dans vault d11
