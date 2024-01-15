@@ -65,7 +65,7 @@ trove vaults4, ignorance vaults5
 4250987573605760449 : Hat alechmist shopd7, +5 eveningstar Urga Lair1 (ne pas descendre au d12 avant le lair et les mines)
 18085059994405467450 : +9 plate armour ponderous d1, oka d2, temple d6, harm dex5 orb of light snake3, Leech swamp4 3624G, 
 13978030460760247303 : Shield gong Orc2
-4136815238768668293 : Black knight barding d3, temple d7, trove d10 5resistances, pas mal d'anneaux dex, bonnes armes à feu elf3, arcblade elf3
+4136815238768668293 : Black knight barding d3, temple d7, trove d10 5resistances, pas mal d'anneaux dex, plutonium sword shoals4, bonnes armes à feu elf3, arcblade elf3
 7298740011910363998 : Ring of shadows d8
 13836800278587903469 : ring slay d1, orb light d2, ring ev d4, Tower reflect et crystal bailey d10, trove d10 piety
 10787548041186868589 : tempe d5, Sniper d14, +9 randart antimagic war axe d7, bazaar vaults2 et depths1, robe clouds depths4, scythe finisher slime5,  
@@ -127,3 +127,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 6716443292564874098 : Maxwell armor et cloak starlight shop d1,  
 1935502757727377352 : Hep dans temple d4, Lajatang order d8, 
 14111463940620797 : anneaux dex d1 et d2, arba elec d2, egouts nord ouest et singing sword nord est d4, temple d7, 
+1012269209775733202 : hand xbow d4 shop 1G, 
