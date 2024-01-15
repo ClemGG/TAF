@@ -90,7 +90,7 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 7070307476081835477 : staff meek d3, Arbalest Damn Gauntlet d13
 9172802875789826777 : robe dex rF et bottes will+++ d4, buckler sInv lair2, vault hydres d14, scroll acqui 37g + eveningstar vamp + bazaar derrière statue Snake1
 17462194826089648692 : Singing sword d11
-3188702928422607917 : barding d1, king gold scales d5, wyrmbane d7, robe vines shop 1120G d11, morningstar Eos Orc1
+3188702928422607917 : barding d1, king gold scales d5, wyrmbane sur Maggie et temple nord-est d7, hep sud-est et qaz nord-est d8, robe vines shop 1120G d11, demon trident Urug Lair1, demon whip lair5, morningstar Eos Orc1 (ne pas s'emmerder avec les lances, prendre Eos et juste entraîner M&F)
 7444327526734103097 : Helmet dex5 robin d4, shop anneaux d7, shop quickblade double/demon sword d9 et lair d9, leather armour dex7 Orc2, ice cave spider4 est, robe of folly elf1, double sword holy elf2 et demon sword depths3
 2114642855872888659 : Tower shield protection shop 202G + longbow d1, acqui et temple d7
 14739717275159558546 : 3 acqui d3, Cigotuvi dans vault d11
@@ -127,4 +127,4 @@ eveningstar lair5, boots seven leagues glacier swamp 4, trove 2 acqui elf1, rand
 6716443292564874098 : Maxwell armor et cloak starlight shop d1,  
 1935502757727377352 : Hep dans temple d4, Lajatang order d8, 
 14111463940620797 : anneaux dex d1 et d2, arba elec d2, egouts nord ouest et singing sword nord est d4, temple d7, 
-1012269209775733202 : hand xbow d4 shop 1G, 
+1012269209775733202 : hand xbow d4 shop 1G, scarf repulsion excellente lair5, cloak starlight Orc2 shop 1067G, F
