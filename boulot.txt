@@ -3,5 +3,7 @@ TAF : Avec Alexis, réaliser le positionnement de la maquette sur une surface pl
 
 Bugs : 
 
-- Ouvrir une maquette quand déconnecté n'affiche pas les projets et maquettes dans le cache
-- Charger les projets n'affiche pas leur nombre de maquettes tant qu'on ne clique pas dessus
+
+- Relancer un chargement de maquette peut échouer
+- les boutons ont du mal à s'enclencher la première fois et ont toujours l'outline des boutons par défaut
+- le cache local ne s'affiche pas sur l'hololens quand on clique sur le bouton pour la première fois
