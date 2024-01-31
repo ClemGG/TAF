@@ -4,7 +4,4 @@ TAF : Avec Alexis, réaliser le positionnement de la maquette sur une surface pl
 Bugs : 
 
 
-- Relancer un chargement de maquette peut échouer
-- les boutons ont du mal à s'enclencher la première fois et ont toujours l'outline des boutons par défaut
-- le cache local ne s'affiche pas sur l'hololens quand on clique sur le bouton pour la première fois
-- l'appli plante au moment de charger un ifc
+//- l'appli plante au moment de charger un ifc (Apparemment ça a à voir avec le modèle)
