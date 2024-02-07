@@ -1,7 +1,8 @@
-TAF : Avec Alexis, réaliser le positionnement de la maquette sur une surface plane via l'Hololens.
-      Récupérer les interventions et les afficher sur l'UI
+TAF : Récupérer les interventions et les afficher sur l'UI
 
 Bugs : 
 
 
 //- l'appli plante au moment de charger un ifc (Apparemment ça a à voir avec le modèle)
+- L'historique n'est pas écrit en mémoire sur l'Hololens, alors que ça marche dans l'éditeur
+- Distorsion au niveau des mains
