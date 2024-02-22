@@ -3,7 +3,4 @@ TAF : Récupérer les interventions et les afficher sur l'UI
 Bugs : 
 
 
-- Le téléchargement en local peut planter si on sélectionn une maquette avant de changer de projet sélectionné
 - les icones apparaissent toujours après un téléchargement
-//- l'appli plante au moment de charger un ifc (Apparemment ça a à voir avec le modèle)
-- Distorsion au niveau des mains
