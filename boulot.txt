@@ -3,4 +3,10 @@ TAF : Récupérer les interventions et les afficher sur l'UI
 Bugs : 
 
 
-- les icones apparaissent toujours après un téléchargement
+- Màj les scrollviews quand on y ajoute un élément (Clipping Bounds) pas urgent
+- Vérif UI avec Alex pas urgent
+- Désactiver les menus mains avec OnHandDetected et OnHandLost urgent
+- Les boutons du login fonctionnent toujours quand le clavier est ouvert
+- Le clavier reste ouvert quand on passe au profil
+
+- Réactiver les n° maquettes des ScrollItems et voir pourquoi le ModelList du MaquetteCloudManager plante quand on veut récupérer toutes les maquettes d'un projet
