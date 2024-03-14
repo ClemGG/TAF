@@ -3,4 +3,4 @@ maaeeghii=c14\{13}=g2\{13}=h5\{13}*=z10\{13}*m
 
 Coglin Hunter : 
 
-maaeff=c14\{13}*=z10\{13}=17\{13}*m
+maaeeff=c14\{13}*=z10\{13}=17\{13}*m
