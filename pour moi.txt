@@ -1,9 +1,0 @@
-TAF:
-
-- Raser, douche
-- Ranger vaisselle
-- Repassage
-
-Unity : 
-
-- Corrigr bug Burst avec le job générique
