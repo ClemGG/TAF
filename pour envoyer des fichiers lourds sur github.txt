@@ -1,0 +1,8 @@
+- Télécharger Git Large File Storage https://git-lfs.com/
+- Ouvrir le projet dans l'invite de commande (passer par Github Desktop c'est plus simple)
+- git lfs install
+- git lfs track "*.ext1" "*.ext2" "*.etc"
+- git add .gitattributes
+- git add file.psd
+- git commit -m "Add design file"
+- git push origin main
