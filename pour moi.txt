@@ -1,0 +1,4 @@
+Monogame:
+
+- Essayer de convertir les updates du SpriteDrawSystem en queries (utiliser Resources<> pour passer l'atlas?)
+- Voir si on ne peut pas passer les queries en parallèle
