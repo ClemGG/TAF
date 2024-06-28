@@ -11,11 +11,10 @@ Bugs :
 
 - Réactiver les n° maquettes des ScrollItems et voir pourquoi le ModelList du MaquetteCloudManager plante quand on veut récupérer toutes les maquettes d'un projet
 
-Pose maquette sur surface : 
 
-- Permettre de placer à nouveau la maquette sur une surface
-	- Déplacer le code assignant le modèle comme enfant du Playground du MaquettteVM vers le SufaceViewModel
-	- Enlever le modèle du Playground quand on quitte la vue sur surface
-	- Nettoyer le code créant le scaleRoot et initialisant les prefabs
-	- Créer le code dans MaquetteView pour supprimer le modèle quand on clique sur Annuler (pour pouvoir en ajouter un autre)
-- Voir ce qui fait crasher le ModelPlacement.Update
+Terrain View:
+Voir ce qu'il y a à faire
+
+HorusImporter:
+Voir avec Nicolas, à reporter jusqu'à nouvel ordre
+
