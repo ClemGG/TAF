@@ -11,9 +11,9 @@ Bugs :
 
 - Réactiver les n° maquettes des ScrollItems et voir pourquoi le ModelList du MaquetteCloudManager plante quand on veut récupérer toutes les maquettes d'un projet
 
-
-Terrain View:
-Voir ce qu'il y a à faire
+ManualAlignment:
+Voir pourquoi la maquette n'est pas toujours bien positionnée
+Voir pourquoi le pinch est aussi sensible
 
 HorusImporter:
 Voir avec Nicolas, à reporter jusqu'à nouvel ordre
