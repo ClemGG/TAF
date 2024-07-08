@@ -2,14 +2,7 @@ TAF : Récupérer les interventions et les afficher sur l'UI
 
 Bugs : 
 
-
-- Màj les scrollviews quand on y ajoute un élément (Clipping Bounds) (pas urgent)
-- Vérif UI avec Alex (pas urgent)
-- Désactiver les menus mains avec OnHandDetected et OnHandLost (urgent)
-- Les boutons du canvas Télécharger Local n'ont pas d'animation de leur outline quand survolé ou cliqué (pas urgent)
-- Les boutons de sélection de maquette ne fonctionnent pas (urgent)
-
-- Réactiver les n° maquettes des ScrollItems et voir pourquoi le ModelList du MaquetteCloudManager plante quand on veut récupérer toutes les maquettes d'un projet
+- Demander à Nicolas s'il a mis des maquettes sur MongoDB
 
 ManualAlignment:
 Voir pourquoi la maquette n'est pas toujours bien positionnée
@@ -17,4 +10,5 @@ Voir pourquoi le pinch est aussi sensible
 
 HorusImporter:
 Voir avec Nicolas, à reporter jusqu'à nouvel ordre
+
 
