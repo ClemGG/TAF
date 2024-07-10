@@ -1,4 +1,4 @@
 Monogame:
 
-- Essayer de convertir les updates du SpriteDrawSystem en queries (utiliser Resources<> pour passer l'atlas?)
-- Voir si on ne peut pas passer les queries en parallèle
+- Revoir la création des entités des Inputs
+- Voir comment on peut calculer les InputBindings dans les queries
