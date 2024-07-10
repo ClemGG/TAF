@@ -1,0 +1,12 @@
+Pour bosser sur une autre branche:
+
+- Se mettre sur master
+- Clic droit > Créer une branche locale
+
+Pour merger une branche sur master : 
+
+- Se mettre sur la branche (checkout)
+- faire merge master into branch
+- Résoudre les conflits
+- Se mettre sur master (checkout)
+- faire merge branch into master
