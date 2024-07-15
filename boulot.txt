@@ -12,3 +12,10 @@ HorusImporter:
 Voir avec Nicolas, à reporter jusqu'à nouvel ordre
 
 
+Trucs à apprendre pour Babylon:
+
+- Elemenets UI en 3D,
+- Traduction dans plusieurs langues
+- ouvrir lien vers autre site dans une autre fenêtre
+- Lire vidéo YT depuis notre site
+- Lire données depuis un fichier txt
