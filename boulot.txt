@@ -1,21 +1,13 @@
-TAF : Récupérer les interventions et les afficher sur l'UI
+Mirage : Récupérer les interventions et les afficher sur l'UI
 
-Bugs : 
-
-- Demander à Nicolas s'il a mis des maquettes sur MongoDB
-
-ManualAlignment:
-Voir pourquoi la maquette n'est pas toujours bien positionnée
-Voir pourquoi le pinch est aussi sensible
-
-HorusImporter:
-Voir avec Nicolas, à reporter jusqu'à nouvel ordre
 
 
 Trucs à apprendre pour Babylon:
 
 - Elemenets UI en 3D,
-- Traduction dans plusieurs langues
 - ouvrir lien vers autre site dans une autre fenêtre
 - Lire vidéo YT depuis notre site
-- Lire données depuis un fichier txt
+
+Pour la prochaine fois:
+- Trouver comment afficher le texte Unicode sans les artefacts
+- Elements UI en 3D

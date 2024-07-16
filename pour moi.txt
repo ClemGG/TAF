@@ -1,4 +1,0 @@
-Monogame:
-
-- Revoir la création des entités des Inputs
-- Voir comment on peut calculer les InputBindings dans les queries
