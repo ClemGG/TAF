@@ -4,10 +4,7 @@ Mirage : Récupérer les interventions et les afficher sur l'UI
 
 Trucs à apprendre pour Babylon:
 
-- Elemenets UI en 3D,
-- ouvrir lien vers autre site dans une autre fenêtre
-- Lire vidéo YT depuis notre site
 
 Pour la prochaine fois:
-- Trouver comment afficher le texte Unicode sans les artefacts
-- Elements UI en 3D
+- Trouver comment afficher une vidéo en 3D,
+- Lire les vidéos en local ou via lien yt
