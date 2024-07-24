@@ -1,0 +1,3 @@
+Monogame:
+
+Changer les classes statiques des managers et classes AppX en classes scellées, et leur passer leurs données de config en paramètre au lieu de les chercher dans leurs constructeurs.
