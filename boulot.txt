@@ -6,5 +6,7 @@ Trucs à apprendre pour Babylon:
 
 
 Pour la prochaine fois:
-- Trouver comment afficher une vidéo en 3D,
-- Lire les vidéos en local ou via lien yt
+
+- Voir pourquoi FontFaceObserver ne marche pas
+- Voir comment recentrer le texte d'un bouton
+- Faire l'UI en 3D
