@@ -7,6 +7,6 @@ Trucs à apprendre pour Babylon:
 
 Pour la prochaine fois:
 
-- Voir pourquoi FontFaceObserver ne marche pas
-- Voir comment recentrer le texte d'un bouton
+- Voir comment désactiver le scrolling du slate et afficher l'image en entier
+- Implémenter des signatures supplémentaires pour toutes les méthodes ayant des paramètres faucultatifs
 - Faire l'UI en 3D
