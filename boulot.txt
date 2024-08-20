@@ -8,6 +8,5 @@ Trucs à apprendre pour Babylon:
 Pour la prochaine fois:
 
 - Voir comment désactiver le scrolling du slate et afficher l'image en entier
-- Implémenter des signatures supplémentaires pour toutes les méthodes ayant des paramètres faucultatifs
+- Implémenter des signatures supplémentaires pour toutes les méthodes ayant des paramètres faucultatifs (pas urgent)
 - Faire l'UI en 3D
-- Revoir le JSON des descriptions pour pouvoir utilise i18next, vu qu'on peut pas ouvrir le fichier json directement
