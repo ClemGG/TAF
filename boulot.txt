@@ -7,6 +7,9 @@ Trucs à apprendre pour Babylon:
 
 Pour la prochaine fois:
 
+- Changer l'apparence de la carte du monde
+- Voir pourquoi la caméra n'est pas spawn au bon endroit dans Monargis old
+
 - Voir comment désactiver le scrolling du slate et afficher l'image en entier
 - Implémenter des signatures supplémentaires pour toutes les méthodes ayant des paramètres faucultatifs (pas urgent)
 - Faire l'UI en 3D
