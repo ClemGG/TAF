@@ -1,3 +1,9 @@
+Game design:
+
+- Faire le game design du jeu d'infiltration (le roguelike en 2D ou celui en 3D)
+- Ecrire un arc de développement pour le succube pour l'histoire sur les démons
+
+
 Monogame:
 
 - Créer une système de caméra utilisant l'ECS
