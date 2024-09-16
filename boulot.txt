@@ -7,5 +7,5 @@ Trucs à apprendre pour Babylon:
 
 Pour la prochaine fois:
 
-- Réduire la taille des boutons des menuBtns et welcome
+- Ecrire les fonctions pour la création et l'affichage de l'UI des GI
 - Voir pourquoi les fichiers babylon s'importent mal (apparemment résolu?)
