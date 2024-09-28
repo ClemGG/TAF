@@ -7,5 +7,4 @@ Trucs à apprendre pour Babylon:
 
 Pour la prochaine fois:
 
-- Ecrire les fonctions pour la création et l'affichage de l'UI des GI
 - Voir pourquoi les fichiers babylon s'importent mal (apparemment résolu?)
